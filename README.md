@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adityaajay33/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/adityaajay33/LeetCode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/adityaajay33/LeetCode/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/adityaajay33/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -195,4 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityaajay33/LeetCode/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/adityaajay33/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/adityaajay33/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
