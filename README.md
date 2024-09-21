@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/adityaajay33/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/adityaajay33/LeetCode/tree/master/0242-valid-anagram) |
 | [1023-time-based-key-value-store](https://github.com/adityaajay33/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Binary Search
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/adityaajay33/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/adityaajay33/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/adityaajay33/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/adityaajay33/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/adityaajay33/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/adityaajay33/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityaajay33/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/adityaajay33/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -129,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/adityaajay33/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/adityaajay33/LeetCode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
