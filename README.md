@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/adityaajay33/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/adityaajay33/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/adityaajay33/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/adityaajay33/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -206,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adityaajay33/LeetCode/tree/master/0002-add-two-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/adityaajay33/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
