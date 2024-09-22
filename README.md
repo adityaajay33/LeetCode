@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/adityaajay33/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/adityaajay33/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0594-longest-harmonious-subsequence](https://github.com/adityaajay33/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/adityaajay33/LeetCode/tree/master/0621-task-scheduler) |
 | [0906-walking-robot-simulation](https://github.com/adityaajay33/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1023-time-based-key-value-store](https://github.com/adityaajay33/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## String
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/adityaajay33/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0506-relative-ranks](https://github.com/adityaajay33/LeetCode/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/adityaajay33/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/adityaajay33/LeetCode/tree/master/0621-task-scheduler) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/adityaajay33/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/adityaajay33/LeetCode/tree/master/0792-binary-search) |
 | [0906-walking-robot-simulation](https://github.com/adityaajay33/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/adityaajay33/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/adityaajay33/LeetCode/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/adityaajay33/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/adityaajay33/LeetCode/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/adityaajay33/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/adityaajay33/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/adityaajay33/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/adityaajay33/LeetCode/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/adityaajay33/LeetCode/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/adityaajay33/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1762-furthest-building-you-can-reach](https://github.com/adityaajay33/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 ## Quickselect
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/adityaajay33/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/adityaajay33/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/adityaajay33/LeetCode/tree/master/0621-task-scheduler) |
 ## Randomized
 |  |
 | ------- |
@@ -183,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityaajay33/LeetCode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/adityaajay33/LeetCode/tree/master/0179-largest-number) |
+| [0621-task-scheduler](https://github.com/adityaajay33/LeetCode/tree/master/0621-task-scheduler) |
 | [1762-furthest-building-you-can-reach](https://github.com/adityaajay33/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 ## Two Pointers
 |  |
