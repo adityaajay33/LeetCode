@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/adityaajay33/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/adityaajay33/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/adityaajay33/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0729-my-calendar-i](https://github.com/adityaajay33/LeetCode/tree/master/0729-my-calendar-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/adityaajay33/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/adityaajay33/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/adityaajay33/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/adityaajay33/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0729-my-calendar-i](https://github.com/adityaajay33/LeetCode/tree/master/0729-my-calendar-i) |
 | [1023-time-based-key-value-store](https://github.com/adityaajay33/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Array
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/adityaajay33/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/adityaajay33/LeetCode/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/adityaajay33/LeetCode/tree/master/0695-max-area-of-island) |
+| [0729-my-calendar-i](https://github.com/adityaajay33/LeetCode/tree/master/0729-my-calendar-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/adityaajay33/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/adityaajay33/LeetCode/tree/master/0792-binary-search) |
 | [0906-walking-robot-simulation](https://github.com/adityaajay33/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -256,4 +259,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/adityaajay33/LeetCode/tree/master/0133-clone-graph) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/adityaajay33/LeetCode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/adityaajay33/LeetCode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
