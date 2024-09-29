@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/adityaajay33/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/adityaajay33/LeetCode/tree/master/0011-container-with-most-water) |
+| [0046-permutations](https://github.com/adityaajay33/LeetCode/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/adityaajay33/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/adityaajay33/LeetCode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityaajay33/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -293,5 +294,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/adityaajay33/LeetCode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/adityaajay33/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
