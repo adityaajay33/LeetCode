@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/adityaajay33/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0924-fair-candy-swap](https://github.com/adityaajay33/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1023-time-based-key-value-store](https://github.com/adityaajay33/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1256-rank-transform-of-an-array](https://github.com/adityaajay33/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/adityaajay33/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/adityaajay33/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/adityaajay33/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/adityaajay33/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/adityaajay33/LeetCode/tree/master/1036-rotting-oranges) |
+| [1256-rank-transform-of-an-array](https://github.com/adityaajay33/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/adityaajay33/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/adityaajay33/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1762-furthest-building-you-can-reach](https://github.com/adityaajay33/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/adityaajay33/LeetCode/tree/master/0621-task-scheduler) |
 | [0924-fair-candy-swap](https://github.com/adityaajay33/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/adityaajay33/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1256-rank-transform-of-an-array](https://github.com/adityaajay33/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
