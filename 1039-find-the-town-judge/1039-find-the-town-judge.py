@@ -1,29 +1,21 @@
 class Solution:
     def findJudge(self, n: int, trust: List[List[int]]) -> int:
-
-        if n==1 and not trust:
+        # If there are no trust relationships and only one person, they are the judge
+        if n == 1 and not trust:
             return 1
-        elif not trust:
-            return -1
-
-        hm = {}
-
+        
+        trust_counts = [0] * (n + 1)
+        
+        # For each pair, decrement truster and increment trustee
         for truster, trustee in trust:
-            trL = hm.get(truster, set())
-            trL.add(trustee)
-            hm[truster] = trL
+            trust_counts[truster] -= 1
+            trust_counts[trustee] += 1
 
-        for person in range(1, n+1):
-            if person not in hm:
-                truth = True
-                for pers in range(1, n+1):
-                    if (pers!=person and pers not in hm) or (pers!=person and person not in hm[pers]):
-                        truth = False
-                        break
-                if truth:
-                    return person
+        # Judge should be trusted by n - 1 people (count = n - 1)
+        for person in range(1, n + 1):
+            if trust_counts[person] == n - 1:
+                return person
 
         return -1
-
 
         
