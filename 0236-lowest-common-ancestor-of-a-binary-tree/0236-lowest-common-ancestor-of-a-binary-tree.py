@@ -8,9 +8,37 @@
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
 
-        if root in (None, p, q): return root
-        left, right = (self.lowestCommonAncestor(kid, p, q)
-                    for kid in (root.left, root.right))
-        return root if left and right else left or right
+        def dfs(value, node, listAnc):
+            if not node:
+                return None
+
+            listAnc.append(node)
+            if node==value:
+                return listAnc
+
+            x = dfs(value, node.left, listAnc)
+            if x:
+                return x
+            
+            y = dfs(value, node.right, listAnc)
+            if y:
+                return y
+            
+            listAnc.pop()
+            return None
+
+        a = dfs(p, root, [])
+        b = dfs(q, root, [])
+
+        if not a or not b:
+            return None
+
+        rangeL = min(len(a), len(b))
+        LCA = root
+        for i in range(rangeL):
+            if a[i]==b[i]:
+                LCA = a[i]
+        
+        return LCA
 
         
