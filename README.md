@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/adityaajay33/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/adityaajay33/LeetCode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/adityaajay33/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0241-different-ways-to-add-parentheses](https://github.com/adityaajay33/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/adityaajay33/LeetCode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/adityaajay33/LeetCode/tree/master/0567-permutation-in-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/adityaajay33/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/adityaajay33/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/adityaajay33/LeetCode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/adityaajay33/LeetCode/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/adityaajay33/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0367-valid-perfect-square](https://github.com/adityaajay33/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/adityaajay33/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1014-k-closest-points-to-origin](https://github.com/adityaajay33/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/adityaajay33/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/adityaajay33/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityaajay33/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0241-different-ways-to-add-parentheses](https://github.com/adityaajay33/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Matrix
 |  |
 | ------- |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/adityaajay33/LeetCode/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/adityaajay33/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -317,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adityaajay33/LeetCode/tree/master/0002-add-two-numbers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/adityaajay33/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/adityaajay33/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Trie
 |  |
