@@ -1,21 +1,31 @@
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
-        #Binary search to find the right value: O(log(max(n)))
+        
+        piles.sort()
 
-        l, r = 1, max(piles)
-        res = r
-        while(l<=r):
+        '''
+        maximum speed would be the size of the biggest pile
+        minimum speed would be the (sum of all the piles)/hours
+        '''
+
+        def checkEat(k):
+            hours = 0
+            for item in piles:
+                hours += math.ceil(item/k)
+            return hours<=h
+
+        l, r = max(sum(piles)//h, 1), max(piles)
+        while l<r:
+            
             m = (l+r)//2
-            hours=0
-            for pile in piles:
-                hours+= math.ceil(pile / m)
-            if hours<=h:
-                res = min(res, m)
-                r = m-1
+
+            if checkEat(m):
+                r = m
             else:
-                l = m+1
-        return res
+                l=m+1
+        
+        return l
 
-        #Time complexity: O(log(max(n)) * n)
 
-                    
+        return m
+        
