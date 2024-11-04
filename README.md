@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/adityaajay33/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/adityaajay33/LeetCode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/adityaajay33/LeetCode/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/adityaajay33/LeetCode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/adityaajay33/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1023-time-based-key-value-store](https://github.com/adityaajay33/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1304-longest-happy-string](https://github.com/adityaajay33/LeetCode/tree/master/1304-longest-happy-string) |
@@ -370,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1694-make-sum-divisible-by-p](https://github.com/adityaajay33/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/adityaajay33/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
