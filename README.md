@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/adityaajay33/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1762-furthest-building-you-can-reach](https://github.com/adityaajay33/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1923-sentence-similarity-iii](https://github.com/adityaajay33/LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [1940-maximum-xor-for-each-query](https://github.com/adityaajay33/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [1962-single-threaded-cpu](https://github.com/adityaajay33/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/adityaajay33/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3291-find-if-array-can-be-sorted](https://github.com/adityaajay33/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/adityaajay33/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/adityaajay33/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [1940-maximum-xor-for-each-query](https://github.com/adityaajay33/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [3291-find-if-array-can-be-sorted](https://github.com/adityaajay33/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Greedy
 |  |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1694-make-sum-divisible-by-p](https://github.com/adityaajay33/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1940-maximum-xor-for-each-query](https://github.com/adityaajay33/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 ## String Matching
 |  |
 | ------- |
