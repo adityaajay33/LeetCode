@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/adityaajay33/LeetCode/tree/master/0729-my-calendar-i) |
 | [1023-time-based-key-value-store](https://github.com/adityaajay33/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/adityaajay33/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1955-seat-reservation-manager](https://github.com/adityaajay33/LeetCode/tree/master/1955-seat-reservation-manager) |
 ## Array
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/adityaajay33/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1304-longest-happy-string](https://github.com/adityaajay33/LeetCode/tree/master/1304-longest-happy-string) |
 | [1762-furthest-building-you-can-reach](https://github.com/adityaajay33/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
+| [1955-seat-reservation-manager](https://github.com/adityaajay33/LeetCode/tree/master/1955-seat-reservation-manager) |
 | [1962-single-threaded-cpu](https://github.com/adityaajay33/LeetCode/tree/master/1962-single-threaded-cpu) |
 ## Quickselect
 |  |
