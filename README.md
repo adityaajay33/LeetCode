@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/adityaajay33/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1023-time-based-key-value-store](https://github.com/adityaajay33/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1304-longest-happy-string](https://github.com/adityaajay33/LeetCode/tree/master/1304-longest-happy-string) |
+| [1321-get-equal-substrings-within-budget](https://github.com/adityaajay33/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/adityaajay33/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adityaajay33/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/adityaajay33/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/adityaajay33/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/adityaajay33/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1023-time-based-key-value-store](https://github.com/adityaajay33/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1321-get-equal-substrings-within-budget](https://github.com/adityaajay33/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/adityaajay33/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Design
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/adityaajay33/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/adityaajay33/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/adityaajay33/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1321-get-equal-substrings-within-budget](https://github.com/adityaajay33/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adityaajay33/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Counting
 |  |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1321-get-equal-substrings-within-budget](https://github.com/adityaajay33/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1694-make-sum-divisible-by-p](https://github.com/adityaajay33/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/adityaajay33/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 ## String Matching
