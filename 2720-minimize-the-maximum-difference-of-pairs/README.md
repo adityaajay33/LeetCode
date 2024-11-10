@@ -1,5 +1,26 @@
 <h2><a href="https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs">2720. Minimize the Maximum Difference of Pairs</a></h2><h3>Medium</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> and an integer <code>p</code>. Find <code>p</code> pairs of indices of <code>nums</code> such that the <strong>maximum</strong> difference amongst all the pairs is <strong>minimized</strong>. Also, ensure no index appears more than once amongst the <code>p</code> pairs.</p>
 
+<p>
+	Aditya's thoughts: This was quite an unintuitive solution that doesn't make very much sense. THere were a few steps that I took here:
+	<ol>
+		<li>
+			Order the list through sort function
+		</li>
+		<li>
+			After ordering the list, make a function that checks if there are n pairs in the nums that have a diff below that threshold
+		</li>
+  		<li>
+			IF the difference in the pairs is below max_diff (arg in the function), move to the 2 indices down. If its greater, move only one index down.
+		</li>
+		<li>
+			Do binary search to find the minimum threshold for p pairs.
+		</li>
+		<li>
+			Good luck!!
+		</li>
+	</ol>
+</p>
+
 <p>Note that for a pair of elements at the index <code>i</code> and <code>j</code>, the difference of this pair is <code>|nums[i] - nums[j]|</code>, where <code>|x|</code> represents the <strong>absolute</strong> <strong>value</strong> of <code>x</code>.</p>
 
 <p>Return <em>the <strong>minimum</strong> <strong>maximum</strong> difference among all </em><code>p</code> <em>pairs.</em> We define the maximum of an empty set to be zero.</p>
