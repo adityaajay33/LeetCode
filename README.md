@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/adityaajay33/LeetCode/tree/master/1184-car-pooling) |
 | [1256-rank-transform-of-an-array](https://github.com/adityaajay33/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/adityaajay33/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adityaajay33/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/adityaajay33/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/adityaajay33/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1762-furthest-building-you-can-reach](https://github.com/adityaajay33/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/adityaajay33/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/adityaajay33/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1321-get-equal-substrings-within-budget](https://github.com/adityaajay33/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adityaajay33/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adityaajay33/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Counting
 |  |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1184-car-pooling](https://github.com/adityaajay33/LeetCode/tree/master/1184-car-pooling) |
 | [1321-get-equal-substrings-within-budget](https://github.com/adityaajay33/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adityaajay33/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1694-make-sum-divisible-by-p](https://github.com/adityaajay33/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/adityaajay33/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 ## String Matching
