@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/adityaajay33/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1923-sentence-similarity-iii](https://github.com/adityaajay33/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adityaajay33/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/adityaajay33/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/adityaajay33/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/adityaajay33/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/adityaajay33/LeetCode/tree/master/3451-string-compression-iii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/adityaajay33/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/adityaajay33/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/adityaajay33/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/adityaajay33/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/adityaajay33/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2716-prime-subtraction-operation](https://github.com/adityaajay33/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/adityaajay33/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/adityaajay33/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/adityaajay33/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1014-k-closest-points-to-origin](https://github.com/adityaajay33/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/adityaajay33/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2716-prime-subtraction-operation](https://github.com/adityaajay33/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Divide and Conquer
 |  |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/adityaajay33/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/adityaajay33/LeetCode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/adityaajay33/LeetCode/tree/master/1036-rotting-oranges) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/adityaajay33/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Memoization
 |  |
 | ------- |
