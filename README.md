@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/adityaajay33/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/adityaajay33/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/adityaajay33/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/adityaajay33/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/adityaajay33/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2716-prime-subtraction-operation](https://github.com/adityaajay33/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Design
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/adityaajay33/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/adityaajay33/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/adityaajay33/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/adityaajay33/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/adityaajay33/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/adityaajay33/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2716-prime-subtraction-operation](https://github.com/adityaajay33/LeetCode/tree/master/2716-prime-subtraction-operation) |
