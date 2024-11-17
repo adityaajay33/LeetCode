@@ -1,30 +1,20 @@
 class Solution:
     def totalFruit(self, fruits: List[int]) -> int:
-
         fruitSet = {}
-        maxFruits, l, r = 0, 0, 0
-        while r<len(fruits):
-            
-            if len(fruitSet)<2:
-                fruitSet[fruits[r]] = r
-            else:
-                if fruits[r] not in fruitSet:
-                    rightKey = None
-                    for key in fruitSet:
-                        if key!=fruits[r-1]:
-                            rightKey = key
-                    l = fruitSet[rightKey]+1
-                    fruitSet[fruits[r]] = r
+        l, maxFruits = 0, 0
 
-                    del fruitSet[rightKey]
+        for r in range(len(fruits)):
+            # Add current fruit to the basket
+            fruitSet[fruits[r]] = fruitSet.get(fruits[r], 0) + 1
 
-                else:
-                    fruitSet[fruits[r]] = r
-                
+            # If there are more than 2 types of fruits, shrink the window
+            while len(fruitSet) > 2:
+                fruitSet[fruits[l]] -= 1
+                if fruitSet[fruits[l]] == 0:
+                    del fruitSet[fruits[l]]
+                l += 1
 
-            r+=1
-            maxFruits = max(maxFruits, r-l)
+            # Update the maximum fruits collected
+            maxFruits = max(maxFruits, r - l + 1)
 
         return maxFruits
-            
-        
