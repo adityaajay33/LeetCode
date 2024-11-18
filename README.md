@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/adityaajay33/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adityaajay33/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/adityaajay33/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [1755-defuse-the-bomb](https://github.com/adityaajay33/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1762-furthest-building-you-can-reach](https://github.com/adityaajay33/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [1923-sentence-similarity-iii](https://github.com/adityaajay33/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/adityaajay33/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/adityaajay33/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adityaajay33/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adityaajay33/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1755-defuse-the-bomb](https://github.com/adityaajay33/LeetCode/tree/master/1755-defuse-the-bomb) |
 ## Counting
 |  |
 | ------- |
