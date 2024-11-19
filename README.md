@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/adityaajay33/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1039-find-the-town-judge](https://github.com/adityaajay33/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1256-rank-transform-of-an-array](https://github.com/adityaajay33/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/adityaajay33/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/adityaajay33/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/adityaajay33/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/adityaajay33/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/adityaajay33/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1184-car-pooling](https://github.com/adityaajay33/LeetCode/tree/master/1184-car-pooling) |
 | [1256-rank-transform-of-an-array](https://github.com/adityaajay33/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/adityaajay33/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/adityaajay33/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adityaajay33/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/adityaajay33/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/adityaajay33/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/adityaajay33/LeetCode/tree/master/1184-car-pooling) |
 | [1256-rank-transform-of-an-array](https://github.com/adityaajay33/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/adityaajay33/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1962-single-threaded-cpu](https://github.com/adityaajay33/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/adityaajay33/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/adityaajay33/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/adityaajay33/LeetCode/tree/master/0753-open-the-lock) |
 | [1036-rotting-oranges](https://github.com/adityaajay33/LeetCode/tree/master/1036-rotting-oranges) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/adityaajay33/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/adityaajay33/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/adityaajay33/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/adityaajay33/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
@@ -405,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/adityaajay33/LeetCode/tree/master/0207-course-schedule) |
 | [1039-find-the-town-judge](https://github.com/adityaajay33/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/adityaajay33/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1436-get-watched-videos-by-your-friends](https://github.com/adityaajay33/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/adityaajay33/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/adityaajay33/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Segment Tree
