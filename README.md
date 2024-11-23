@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/adityaajay33/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/adityaajay33/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [1962-single-threaded-cpu](https://github.com/adityaajay33/LeetCode/tree/master/1962-single-threaded-cpu) |
+| [1972-rotating-the-box](https://github.com/adityaajay33/LeetCode/tree/master/1972-rotating-the-box) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/adityaajay33/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/adityaajay33/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/adityaajay33/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adityaajay33/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/adityaajay33/LeetCode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1923-sentence-similarity-iii](https://github.com/adityaajay33/LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [1972-rotating-the-box](https://github.com/adityaajay33/LeetCode/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adityaajay33/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/adityaajay33/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/adityaajay33/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/adityaajay33/LeetCode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/adityaajay33/LeetCode/tree/master/1036-rotting-oranges) |
+| [1972-rotating-the-box](https://github.com/adityaajay33/LeetCode/tree/master/1972-rotating-the-box) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/adityaajay33/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Memoization
 |  |
