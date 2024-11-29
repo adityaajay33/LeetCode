@@ -17,7 +17,6 @@ class Solution:
                 matches = rabbits
             else:
                 matches -= 1 
-            print(f"for rabbit {rabbits} this is the {count} and {matches}")
             
             prevRabbits = rabbits
 
