@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/adityaajay33/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1256-rank-transform-of-an-array](https://github.com/adityaajay33/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/adityaajay33/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/adityaajay33/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/adityaajay33/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/adityaajay33/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adityaajay33/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/adityaajay33/LeetCode/tree/master/0924-fair-candy-swap) |
 | [1023-time-based-key-value-store](https://github.com/adityaajay33/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1321-get-equal-substrings-within-budget](https://github.com/adityaajay33/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/adityaajay33/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adityaajay33/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/adityaajay33/LeetCode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/adityaajay33/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/adityaajay33/LeetCode/tree/master/1184-car-pooling) |
 | [1256-rank-transform-of-an-array](https://github.com/adityaajay33/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/adityaajay33/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/adityaajay33/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/adityaajay33/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/adityaajay33/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/adityaajay33/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/adityaajay33/LeetCode/tree/master/1184-car-pooling) |
 | [1256-rank-transform-of-an-array](https://github.com/adityaajay33/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/adityaajay33/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/adityaajay33/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1962-single-threaded-cpu](https://github.com/adityaajay33/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/adityaajay33/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/adityaajay33/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityaajay33/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/adityaajay33/LeetCode/tree/master/0567-permutation-in-string) |
 | [0917-boats-to-save-people](https://github.com/adityaajay33/LeetCode/tree/master/0917-boats-to-save-people) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/adityaajay33/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adityaajay33/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/adityaajay33/LeetCode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1923-sentence-similarity-iii](https://github.com/adityaajay33/LeetCode/tree/master/1923-sentence-similarity-iii) |
