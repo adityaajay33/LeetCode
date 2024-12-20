@@ -7,7 +7,9 @@ class Solution:
 
         for (x, y) in points:
             output = self.euclidean(x, y)
-            bisect.insort(res, (output, (x, y)))
+            ind = bisect.bisect_left(res, (output, (x, y)))
+            if ind<k:
+                res.insert(ind, (output, (x, y)))
 
         return [res[i][1] for i in range(k)]
         
