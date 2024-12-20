@@ -3,10 +3,9 @@ class Solution:
         
         res = [-gift for gift in gifts]
         heapq.heapify(res)
-
-        for i in range(k):
-            res[0] = -1*(math.floor((-1*res[0])**0.5))
-            heapq.heapify(res)
-
-        return -1*sum(res)
+        for _ in range(k):
+            largest = -heapq.heappop(res)
+            updated = math.floor(largest ** 0.5)
+            heapq.heappush(res, -updated)
+        return -sum(res)
         
