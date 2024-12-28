@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/adityaajay33/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/adityaajay33/LeetCode/tree/master/0695-max-area-of-island) |
 | [0881-loud-and-rich](https://github.com/adityaajay33/LeetCode/tree/master/0881-loud-and-rich) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/adityaajay33/LeetCode/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/adityaajay33/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/adityaajay33/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/adityaajay33/LeetCode/tree/master/0695-max-area-of-island) |
 | [0753-open-the-lock](https://github.com/adityaajay33/LeetCode/tree/master/0753-open-the-lock) |
 | [1036-rotting-oranges](https://github.com/adityaajay33/LeetCode/tree/master/1036-rotting-oranges) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/adityaajay33/LeetCode/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/adityaajay33/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/adityaajay33/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/adityaajay33/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/adityaajay33/LeetCode/tree/master/0207-course-schedule) |
 | [0881-loud-and-rich](https://github.com/adityaajay33/LeetCode/tree/master/0881-loud-and-rich) |
 | [1039-find-the-town-judge](https://github.com/adityaajay33/LeetCode/tree/master/1039-find-the-town-judge) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/adityaajay33/LeetCode/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/adityaajay33/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/adityaajay33/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/adityaajay33/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
