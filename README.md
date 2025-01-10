@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/adityaajay33/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adityaajay33/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/adityaajay33/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/adityaajay33/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/adityaajay33/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/adityaajay33/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/adityaajay33/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/adityaajay33/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/adityaajay33/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/adityaajay33/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/adityaajay33/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/adityaajay33/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/adityaajay33/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Counting
