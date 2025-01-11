@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/adityaajay33/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/adityaajay33/LeetCode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/adityaajay33/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1502-construct-k-palindrome-strings](https://github.com/adityaajay33/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/adityaajay33/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/adityaajay33/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/adityaajay33/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/adityaajay33/LeetCode/tree/master/1304-longest-happy-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/adityaajay33/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/adityaajay33/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1502-construct-k-palindrome-strings](https://github.com/adityaajay33/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adityaajay33/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/adityaajay33/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/adityaajay33/LeetCode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/adityaajay33/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/adityaajay33/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/adityaajay33/LeetCode/tree/master/0778-reorganize-string) |
+| [1502-construct-k-palindrome-strings](https://github.com/adityaajay33/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/adityaajay33/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Randomized
 |  |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/adityaajay33/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/adityaajay33/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/adityaajay33/LeetCode/tree/master/1304-longest-happy-string) |
+| [1502-construct-k-palindrome-strings](https://github.com/adityaajay33/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1762-furthest-building-you-can-reach](https://github.com/adityaajay33/LeetCode/tree/master/1762-furthest-building-you-can-reach) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/adityaajay33/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2716-prime-subtraction-operation](https://github.com/adityaajay33/LeetCode/tree/master/2716-prime-subtraction-operation) |
