@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/adityaajay33/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/adityaajay33/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/adityaajay33/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0424-longest-repeating-character-replacement](https://github.com/adityaajay33/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/adityaajay33/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/adityaajay33/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/adityaajay33/LeetCode/tree/master/0621-task-scheduler) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/adityaajay33/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/adityaajay33/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/adityaajay33/LeetCode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/adityaajay33/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/adityaajay33/LeetCode/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/adityaajay33/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0753-open-the-lock](https://github.com/adityaajay33/LeetCode/tree/master/0753-open-the-lock) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityaajay33/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/adityaajay33/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/adityaajay33/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/adityaajay33/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/adityaajay33/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/adityaajay33/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/adityaajay33/LeetCode/tree/master/0940-fruit-into-baskets) |
