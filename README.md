@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/adityaajay33/LeetCode/tree/master/0463-island-perimeter) |
 | [0662-maximum-width-of-binary-tree](https://github.com/adityaajay33/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/adityaajay33/LeetCode/tree/master/0695-max-area-of-island) |
+| [0801-is-graph-bipartite](https://github.com/adityaajay33/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/adityaajay33/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/adityaajay33/LeetCode/tree/master/0881-loud-and-rich) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/adityaajay33/LeetCode/tree/master/1120-flower-planting-with-no-adjacent) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/adityaajay33/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/adityaajay33/LeetCode/tree/master/0695-max-area-of-island) |
 | [0753-open-the-lock](https://github.com/adityaajay33/LeetCode/tree/master/0753-open-the-lock) |
+| [0801-is-graph-bipartite](https://github.com/adityaajay33/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/adityaajay33/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/adityaajay33/LeetCode/tree/master/1036-rotting-oranges) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/adityaajay33/LeetCode/tree/master/1120-flower-planting-with-no-adjacent) |
@@ -476,12 +478,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/adityaajay33/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/adityaajay33/LeetCode/tree/master/0695-max-area-of-island) |
+| [0801-is-graph-bipartite](https://github.com/adityaajay33/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/adityaajay33/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/adityaajay33/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/adityaajay33/LeetCode/tree/master/0207-course-schedule) |
+| [0801-is-graph-bipartite](https://github.com/adityaajay33/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/adityaajay33/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/adityaajay33/LeetCode/tree/master/0881-loud-and-rich) |
 | [1039-find-the-town-judge](https://github.com/adityaajay33/LeetCode/tree/master/1039-find-the-town-judge) |
