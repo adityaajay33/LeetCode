@@ -1,40 +1,39 @@
 class Solution:
-    def canFinish(self, numCourses: int, prerequisites) -> bool:
-        if not prerequisites:
-            return True
+    def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
+
+        courses = {}
+        for course, prereq in prerequisites:
+            temp = courses.get(course, [])
+            temp.append(prereq)
+            courses[course] = temp
+
         
-        # Build the adjacency list (hash map of courses and their prerequisites)
-        coursesHashMap = {i: [] for i in range(numCourses)}
-        for x, y in prerequisites:
-            coursesHashMap[x].append(y)
-        
-        visited = set()        # Set to keep track of all visited courses
-        visiting = set()       # Set to keep track of courses in the current DFS path
-        
-        # DFS function
-        def dfs(course):
-            if course in visiting:
-                return False    # Found a cycle
-            if course in visited:
-                return True     # Already checked and no cycle
-            
-            # Mark this course as being visited in this path
-            visiting.add(course)
-            
-            # Recurse on all its prerequisites
-            for prereq in coursesHashMap[course]:
-                if not dfs(prereq):
-                    return False
-            
-            # Mark this course as fully visited
-            visiting.remove(course)
-            visited.add(course)
-            
-            return True
-        
-        # Check all courses
-        for course in range(numCourses):
-            if not dfs(course):
+        visited = set()
+
+        def dfs(c, trace):
+
+            if c in visited or c not in courses:
+                return True
+            if c in trace:
                 return False
-        
+
+            
+            trace.add(c)
+            for pre in courses[c]:
+                ret = dfs(pre, trace)
+
+                if not ret:
+                    return False
+
+            trace.remove(c)
+            visited.add(c)
+            return True
+            
+
+        for c in range(numCourses):
+            out = dfs(c, set())
+            if not out:
+                return False
+
         return True
+        
