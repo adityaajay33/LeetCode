@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/adityaajay33/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/adityaajay33/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/adityaajay33/LeetCode/tree/master/0463-island-perimeter) |
+| [0473-matchsticks-to-square](https://github.com/adityaajay33/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/adityaajay33/LeetCode/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/adityaajay33/LeetCode/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/adityaajay33/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/adityaajay33/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/adityaajay33/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0473-matchsticks-to-square](https://github.com/adityaajay33/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [1940-maximum-xor-for-each-query](https://github.com/adityaajay33/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [3291-find-if-array-can-be-sorted](https://github.com/adityaajay33/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Greedy
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityaajay33/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/adityaajay33/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/adityaajay33/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0473-matchsticks-to-square](https://github.com/adityaajay33/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/adityaajay33/LeetCode/tree/master/0494-target-sum) |
 | [1063-best-sightseeing-pair](https://github.com/adityaajay33/LeetCode/tree/master/1063-best-sightseeing-pair) |
 ## Matrix
@@ -537,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/adityaajay33/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/adityaajay33/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/adityaajay33/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0473-matchsticks-to-square](https://github.com/adityaajay33/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/adityaajay33/LeetCode/tree/master/0494-target-sum) |
 ## Topological Sort
 |  |
@@ -572,4 +576,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/adityaajay33/LeetCode/tree/master/0319-bulb-switcher) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/adityaajay33/LeetCode/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
