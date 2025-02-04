@@ -11,26 +11,28 @@ class Solution:
             return []
 
         res = []
-        res.append(root.val)
-
         def bfs(node):
             nonlocal res
-
             q = collections.deque()
+            
             q.append(node)
+            res.append(q[-1].val)
 
             while q:
-                size = len(q)
+                for _ in range(len(q)):
+                    curr = q.popleft()
 
-                for _ in range(size):
-                    node = q.popleft()
-                    if node.left:
-                        q.append(node.left)
-                    if node.right:
-                        q.append(node.right)
-
+                    if curr.left:
+                        q.append(curr.left)
+                    if curr.right:
+                        q.append(curr.right)
+                
                 if q:
                     res.append(q[-1].val)
+                
 
         bfs(root)
         return res
+            
+
+        
