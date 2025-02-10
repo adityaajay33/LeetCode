@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/adityaajay33/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/adityaajay33/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/adityaajay33/LeetCode/tree/master/0242-valid-anagram) |
+| [0399-evaluate-division](https://github.com/adityaajay33/LeetCode/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/adityaajay33/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/adityaajay33/LeetCode/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/adityaajay33/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/adityaajay33/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/adityaajay33/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/adityaajay33/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/adityaajay33/LeetCode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/adityaajay33/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/adityaajay33/LeetCode/tree/master/0463-island-perimeter) |
 | [0473-matchsticks-to-square](https://github.com/adityaajay33/LeetCode/tree/master/0473-matchsticks-to-square) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/adityaajay33/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/adityaajay33/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/adityaajay33/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [0399-evaluate-division](https://github.com/adityaajay33/LeetCode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/adityaajay33/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/adityaajay33/LeetCode/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/adityaajay33/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/adityaajay33/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/adityaajay33/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/adityaajay33/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0399-evaluate-division](https://github.com/adityaajay33/LeetCode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/adityaajay33/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/adityaajay33/LeetCode/tree/master/0463-island-perimeter) |
 | [0662-maximum-width-of-binary-tree](https://github.com/adityaajay33/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -523,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/adityaajay33/LeetCode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/adityaajay33/LeetCode/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/adityaajay33/LeetCode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/adityaajay33/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/adityaajay33/LeetCode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -532,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/adityaajay33/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/adityaajay33/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/adityaajay33/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/adityaajay33/LeetCode/tree/master/0399-evaluate-division) |
 | [0801-is-graph-bipartite](https://github.com/adityaajay33/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/adityaajay33/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/adityaajay33/LeetCode/tree/master/0881-loud-and-rich) |
@@ -612,4 +618,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/adityaajay33/LeetCode/tree/master/0975-range-sum-of-bst) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/adityaajay33/LeetCode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
